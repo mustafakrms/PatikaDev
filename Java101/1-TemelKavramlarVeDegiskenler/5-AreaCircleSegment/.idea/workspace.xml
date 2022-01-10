@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a4c1c7d-a17f-4d05-82b3-a18357330419" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/1-TemelKavramlarVeDegiskenler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/1-GradeAvarage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1-GradeAvarage/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/2-VatAmound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-VatAmound/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/3-TriangleArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-TriangleArea/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/4-TaximeterProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TaximeterProgram/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-AreaCircleSegment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/BodyMassIndex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-BodyMassIndex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/GroceryStoreProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-GroceryStoreProgram/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/.idea/1-TemelKavramlarVeDegiskenler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/5-AreaCircleSegment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/AreaCircleSegment/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/BodyMassIndex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/out/production/BodyMassIndex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/BodyMassIndex/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/GradeAvarage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/out/production/GradeAvarage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GradeAvarage/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/GroceryStoreProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/GroceryStoreProgram/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/TaximeterProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TaximeterProgram/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/TriangleArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/out/production/TriangleArea/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/TriangleArea/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/VatAmound.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/out/production/VatAmound/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TemelKavramlarVeDegiskenler/VatAmound/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23VqjdzXIliNJcMXjyo7THEZUuI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6-BodyMassIndex" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="5-AreaCircleSegment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4c1c7d-a17f-4d05-82b3-a18357330419" name="Changes" comment="" />
+      <created>1641829740354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641829740354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

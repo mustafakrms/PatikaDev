@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/1-CalculatorPogram/1-CalculatorPogram.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/1-CalculatorPogram/1-CalculatorPogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/1-GradeAverage/1-GradeAverage.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/1-GradeAverage/1-GradeAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/2-UserLogin/2-UserLogin.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/2-UserLogin/2-UserLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/2-VatAmount/2-VatAmount.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/2-VatAmount/2-VatAmount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/3-ClassromPassStatus/3-ClassromPassStatus.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/3-ClassromPassStatus/3-ClassromPassStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/3-TriangleArea/3-TriangleArea.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/3-TriangleArea/3-TriangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/4-ActivityByAirTemperature/4-ActivityByAirTemperature.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/4-ActivityByAirTemperature/4-ActivityByAirTemperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/4-TaximeterProgram/4-TaximeterProgram.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/4-TaximeterProgram/4-TaximeterProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/5-AreaCircleSegment/5-AreaCircleSegment.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/5-AreaCircleSegment/5-AreaCircleSegment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/5-SortSmallToLargeOfNumbers/5-SortSmallToLargeOfNumbers.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/5-SortSmallToLargeOfNumbers/5-SortSmallToLargeOfNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/6-BodyMassIndex/6-BodyMassIndex.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/6-BodyMassIndex/6-BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/6-HoroscopeFinder/6-HoroscopeFinder.iml" filepath="$PROJECT_DIR$/2-KosulluIfadelerVeKodBloklari/6-HoroscopeFinder/6-HoroscopeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/7-GroceryStoreProgram/7-GroceryStoreProgram.iml" filepath="$PROJECT_DIR$/1-TemelKavramlarVeDegiskenler/7-GroceryStoreProgram/7-GroceryStoreProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
+    </modules>
+  </component>
+</project>

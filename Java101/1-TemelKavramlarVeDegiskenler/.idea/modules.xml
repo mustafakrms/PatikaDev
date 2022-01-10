@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1-TemelKavramlarVeDegiskenler.iml" filepath="$PROJECT_DIR$/.idea/1-TemelKavramlarVeDegiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreaCircleSegment/AreaCircleSegment.iml" filepath="$PROJECT_DIR$/AreaCircleSegment/AreaCircleSegment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/6-BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-GradeAverage/GradeAvarage.iml" filepath="$PROJECT_DIR$/1-GradeAverage/GradeAvarage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-GroceryStoreProgram/GroceryStoreProgram.iml" filepath="$PROJECT_DIR$/7-GroceryStoreProgram/GroceryStoreProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-TaximeterProgram/TaximeterProgram.iml" filepath="$PROJECT_DIR$/4-TaximeterProgram/TaximeterProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-TriangleArea/TriangleArea.iml" filepath="$PROJECT_DIR$/3-TriangleArea/TriangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-VatAmount/VatAmound.iml" filepath="$PROJECT_DIR$/2-VatAmount/VatAmound.iml" />
+    </modules>
+  </component>
+</project>
