@@ -1,1 +1,1 @@
-# PatikaDev
+# PatikaDev Ödevleri
