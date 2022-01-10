@@ -14,9 +14,10 @@
         3. ClassroomPassStatus
         4. ActivityByAirTemperature
         5. SortSmallToLarge
-        6. FlightTicketPriceCalculation
-        7. ChineseZodiacCalculatorProgram
-        8. LeapYearCalculator
+        6. HoroscopeFinder
+        7. FlightTicketPriceCalculation
+        8. ChineseZodiacCalculatorProgram
+        9. LeapYearCalculator
     3. Donguler
     4. Metotlar
     5. OOPEntry
