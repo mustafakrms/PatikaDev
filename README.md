@@ -1,1 +1,26 @@
-# PatikaDev Ödevleri
+#PatikaDev Java101 Eğitim İçeriği Örnekleri  
+* AlgoritmaVeVeriYapıları
+* Java101
+    1. TemelKavramlarVeDegiskenler
+        1. GradeAvarage
+        2. VatAmound
+        3. TriangleArea
+        4. TaximeterProgram
+        5. BodyMassIndex
+        6. GroceryStoreProgram
+    2. KoşulluİfadelerVeKodBlokları
+        1. CalculatorPogram
+        2. UserLogin
+        3. ClassromPassStatus
+        4. ActivityByAirTemperature
+        5. SortSmallToLarge
+        6. FlightTicketPriceCalculation
+        7. ChineseZodiacCalculatorProgram
+        8. LeapYearCalculator
+    3. Donguler
+    4. Metotlar
+    5. OOPEntry
+    6. Sınıflar
+    7. diziler
+    8. OtherSubject
+    9. FinalProject
