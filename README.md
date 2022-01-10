@@ -2,16 +2,16 @@
 * AlgoritmaVeVeriYapıları
 * Java101
     1. TemelKavramlarVeDegiskenler
-        1. GradeAvarage
-        2. VatAmound
+        1. GradeAverage
+        2. VatAmount
         3. TriangleArea
         4. TaximeterProgram
         5. BodyMassIndex
         6. GroceryStoreProgram
     2. KoşulluİfadelerVeKodBlokları
-        1. CalculatorPogram
+        1. CalculatorProgram
         2. UserLogin
-        3. ClassromPassStatus
+        3. ClassroomPassStatus
         4. ActivityByAirTemperature
         5. SortSmallToLarge
         6. FlightTicketPriceCalculation
