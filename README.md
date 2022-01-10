@@ -1,4 +1,4 @@
-#PatikaDev Java101 Eğitim İçeriği Örnekleri  
+# PatikaDev Java101 Eğitim İçeriği Örnekleri  
 * AlgoritmaVeVeriYapıları
 * Java101
     1. TemelKavramlarVeDegiskenler
