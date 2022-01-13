@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcebcdeb-f69c-45e0-8574-61efffe2bb90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../10-Ebob-Ekok/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11-LargestSmallestnumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../12-PerfectNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../13-ReverseTriangle/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14-PrimeNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-CombinationCalculator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-CombinationCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-CombinationCalculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-CombinationCalculator/4-CombinationCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4-CombinationCalculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-ExponentsCalculator/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-ExponentsCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-ExponentsCalculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-ExponentsCalculator/5-ExponentsCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5-ExponentsCalculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6-SumOfDigits/6-SumOfDigits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6-SumOfDigits/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-FindTheHarmonicSeries/7-FindTheHarmonicSeries.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-FindTheHarmonicSeries/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-DiamondMakingUsingLoops/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-DiamondMakingUsingLoops/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-DiamondMakingUsingLoops/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-DiamondMakingUsingLoops/8-DiamondMakingUsingLoops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8-DiamondMakingUsingLoops/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9-AtmTransactions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14-PrimeNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../14-PrimeNumber/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +33,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4-CombinationCalculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="15-FibanocciSeries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
