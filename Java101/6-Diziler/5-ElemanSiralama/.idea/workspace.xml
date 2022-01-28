@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb3902f-04af-4ec9-8527-14523de536ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1-HarmonikOrtalama/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-EnYakinSayiBulma/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-BHarfi/3-BHarfi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3-BHarfi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TekrarEdenSayiBulma/4-TekrarEdenSayiBulma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-TekrarEdenSayiBulma/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-ElemanSiralama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6-ElemanlarinFrekansi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7-MatrisTranspozunuBulma/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/1-ElemanOrtalamasiniBul.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-ElemanOrtalamasiniBul/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/2-MaxMinBulma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-EnYakinSayiBulma/2-EnYakinSayiBulma.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-MaxMinBulma/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/3-TekrarEdenSayiBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3-TekrarEdenSayiBulma/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/4-ElemanSiralama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-ElemanSiralama/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/5-ElemanlarinFrekansi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-ElemanlarinFrekansi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/6-MatrisTranspozunuBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-MatrisTranspozunuBulma/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24IxYaR8jynh01dprtOiFcYX3Pe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../6-ElemanlarinFrekansi" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb3902f-04af-4ec9-8527-14523de536ad" name="Changes" comment="" />
+      <created>1643331952419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643331952419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
